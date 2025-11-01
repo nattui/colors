@@ -19,6 +19,7 @@
     "url": "git+https://github.com/nattui/colors.git"
   },
   "author": "Natt Nguyen <hello@natt.sh> (https://natt.sh)",
+  "type": "module",
   "style": "src/index.css",
   "scripts": {
     "format:package": "bunx sort-package-json"
