@@ -1,0 +1,5 @@
+/* Order matters */
+@import "./tailwind.css";
+@import "./theme-gray.css";
+@import "./theme-primary.css";
+@import "./root.css";

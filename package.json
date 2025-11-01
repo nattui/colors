@@ -1,5 +1,5 @@
 {
-  "name": "colors",
+  "name": "@nattui/colors",
   "version": "0.0.1",
   "description": "Centralized CSS and Tailwind color definitions for consistent styling across projects",
   "keywords": [
@@ -19,6 +19,7 @@
     "url": "git+https://github.com/nattui/colors.git"
   },
   "author": "Natt Nguyen <hello@natt.sh> (https://natt.sh)",
+  "style": "src/index.css",
   "scripts": {
     "format:package": "bunx sort-package-json"
   }
