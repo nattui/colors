@@ -23,5 +23,8 @@
   "style": "src/index.css",
   "scripts": {
     "format:package": "bunx sort-package-json"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
