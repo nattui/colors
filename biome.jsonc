@@ -20,6 +20,7 @@
     "includes": ["**", "!**/package.json"]
   },
   "formatter": {
+    "attributePosition": "multiline",
     "indentStyle": "space",
     "lineWidth": 100
   },
