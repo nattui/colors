@@ -1,6 +1,6 @@
 {
 	"name": "@nattui/tailwind-colors",
-	"version": "0.0.4",
+	"version": "0.0.6",
 	"description": "Centralized CSS and Tailwind color definitions for consistent styling across projects",
 	"keywords": [
 		"colors",

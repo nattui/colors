@@ -34,7 +34,7 @@ All colors are available as CSS custom properties:
 .my-element {
   background-color: var(--color-gray-1);
   color: var(--color-primary-9);
-  border-color: var(--color-gray-a3);
+  border-color: var(--color-gray-4);
 }
 ```
 
@@ -43,7 +43,7 @@ All colors are available as CSS custom properties:
 The package includes Tailwind CSS theme definitions. After importing, you can use colors in your Tailwind classes:
 
 ```html
-<div class="bg-gray-1 text-primary-9 border-gray-a3">
+<div class="bg-gray-1 text-primary-9 border-gray-4">
   Content
 </div>
 ```
@@ -71,7 +71,6 @@ Apply theme classes to switch between color variants:
 Each color palette includes:
 
 - **Base colors**: `--color-{name}-1` through `--color-{name}-12`
-- **Alpha variants**: `--color-{name}-a1` through `--color-{name}-a12`
 - **Light variants**: `--color-{name}-light-1` through `--color-{name}-light-12`
 - **Dark variants**: `--color-{name}-dark-1` through `--color-{name}-dark-12`
 
@@ -79,4 +78,3 @@ Each color palette includes:
 
 - **Gray**: Neutral grayscale palette with light and dark variants
 - **Primary**: Brand color palette with multiple color options (e.g., gold) and light/dark variants
-- **Black & White**: Base colors with alpha variants
