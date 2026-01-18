@@ -1,6 +1,6 @@
 {
 	"name": "@nattui/tailwind-colors",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"description": "Centralized CSS and Tailwind color definitions for consistent styling across projects",
 	"keywords": [
 		"colors",
@@ -30,6 +30,6 @@
 		"access": "public"
 	},
 	"devDependencies": {
-		"@biomejs/biome": "^2.3.2"
+		"@biomejs/biome": "2.3.2"
 	}
 }
